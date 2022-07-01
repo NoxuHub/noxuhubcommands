@@ -1,0 +1,24 @@
+Noxu: Hub Staff Commands Documentation
+
+.username = the username of who you want to effect (case sensitive, must be complete)
+
+Good example: kick(VsauceCuriousityBox)
+Bad example: kick(vsauce)
+
+'kick(.username)'
+Kicks that user instantly
+
+'stopfarm(.username)'
+Prevents that user from being able to farm
+
+'breakgame(.username)'
+Completely breaks that user's game
+
+'crash(.username)'
+Crashes that user from the game
+
+'getinfo(.username)'
+Provides information in the "#logs" channel of the Discord server about that user
+
+'serverhop(.username)'
+Forces the user to join a seperate server
